@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+
+.streamlit/
+
+venv/
+env/
+
+.idea/
+.vscode/
+
+*.xlsx
+*.xls
+*.csv
+
+.DS_Store
+Thumbs.db
